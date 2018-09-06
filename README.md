@@ -33,8 +33,8 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/tuimagen1.png)
-![Actividad 2](/tuimagen2.png)
-![Actividad 3](/tuimagen3.png)
-![Actividad 4](/tuimagen4.png)
+![Actividad 1](/lineas.png)
+![Actividad 2](/ready.png)
+![Actividad 3](/recuadro.png)
+![Actividad 4](/dado.png)
 
